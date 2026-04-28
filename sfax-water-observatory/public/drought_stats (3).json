@@ -1,0 +1,35 @@
+{
+  "raster": "reclass_indx1.tif",
+  "pixel_size_m": 100.0,
+  "total_area_km2": 8818.92,
+  "classes": [
+    {
+      "class": 1,
+      "name": "Very Low",
+      "area_km2": 1.18,
+      "percentage": 0.0,
+      "color": "#2c7bb6"
+    },
+    {
+      "class": 2,
+      "name": "Low",
+      "area_km2": 4306.84,
+      "percentage": 48.8,
+      "color": "#abd9e9"
+    },
+    {
+      "class": 3,
+      "name": "Moderate",
+      "area_km2": 4250.49,
+      "percentage": 48.2,
+      "color": "#fdae61"
+    },
+    {
+      "class": 4,
+      "name": "High",
+      "area_km2": 260.41,
+      "percentage": 3.0,
+      "color": "#d7191c"
+    }
+  ]
+}
